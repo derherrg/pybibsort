@@ -1,4 +1,4 @@
-bibsort
+pybibsort
 =======
 
-A simple Python tool for sorting BibTeX files
+A super simple Python tool for sorting BibTeX files.
